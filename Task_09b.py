@@ -24,6 +24,7 @@ Speedy
 
 
 def main():
+    x='9b'
   #===============================
   # Write your code here
     

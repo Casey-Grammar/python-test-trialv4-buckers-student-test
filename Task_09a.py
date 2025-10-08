@@ -35,6 +35,7 @@ Remaining racers: Dash, Speedy, Lighting, Flash, Sonic
 
 
 def main():
+    x=9
   #===============================
   # Write your code here
     

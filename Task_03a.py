@@ -17,6 +17,7 @@ All good.
 
 '''
 def main():
+  x=1
   #===============================
   # Write your code here
     

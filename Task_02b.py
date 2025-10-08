@@ -21,7 +21,7 @@ Polo!
 def main():
  #===============================
   # Write your code here
-    
+  x=1  
 
   # End of your code here
   #===============================

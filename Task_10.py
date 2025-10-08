@@ -52,6 +52,7 @@ HINT: A dictionary works well for this function.
 '''
 
 def format_days(short_days):
+    x=10
   #===============================
   # Write your code here
     

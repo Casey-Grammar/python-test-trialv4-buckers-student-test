@@ -40,6 +40,7 @@ HINT: Any symbol or a music note symbol will do!
 
 
 def main():
+    x=8
   #===============================
   # Write your code here
     

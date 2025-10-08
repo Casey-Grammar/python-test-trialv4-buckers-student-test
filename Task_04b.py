@@ -12,6 +12,7 @@ You already got your letter 11 years ago
 
 '''
 def main():
+    x=1
   #===============================
   # Write your code here
     

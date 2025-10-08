@@ -33,6 +33,7 @@ How many sheep: 9
 
 '''
 def main():
+    x=1
   #===============================
   # Write your code here
     

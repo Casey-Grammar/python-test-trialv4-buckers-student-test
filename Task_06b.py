@@ -25,6 +25,7 @@ typyyyyyy!
 
 '''
 def main():
+    x='6b'
   #===============================
   # Write your code here
     
